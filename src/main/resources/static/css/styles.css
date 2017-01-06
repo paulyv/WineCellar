@@ -1,0 +1,24 @@
+.no-spacing {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+#page-wrapper {
+	width: 100%;
+	background-color: blue;
+}
+.text-content-area {
+	max-width:900px;
+	margin: 0 auto;
+}
+
+.topic {
+	background-color: yellow;
+}
+
+.hello {
+	background-color: red;
+}
+
+.bye {
+	background-color: green;
+}
